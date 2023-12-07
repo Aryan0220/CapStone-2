@@ -1,0 +1,50 @@
+.title{
+    background-color:aliceblue;
+}
+.project{
+    margin-top: 5%;
+    background-color:aliceblue;
+}
+.Skills{
+    margin-top: 5%;
+    background-color:aliceblue;
+}
+.contact{
+    margin-top: 5%;
+    background-color:aliceblue;
+    padding-bottom: 3rem !important;
+}
+.title .d-block{
+    border-radius: 50%;
+}
+.title .img{
+    padding-left: 0% !important;
+}
+.title .container{
+    margin-top: 5rem !important;
+}
+.title .row .text{
+    padding-right: 0% !important;
+}
+.title h1{
+    font-family: cursive !important;
+}
+a{
+    text-decoration: none !important;
+}
+.project h3{
+    text-shadow: 2px 1px white;
+    font-family: cursive !important;
+}
+.contact h1{
+    font-family: cursive !important;
+}
+.project h1{
+    font-family: cursive !important;
+}
+.Skills h1{
+    font-family: cursive !important;
+}
+.Skills img{
+    width: "100" !important;
+}
